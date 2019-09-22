@@ -12,7 +12,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-
+famous_cats = 
 end
 
 def using_first(array)
