@@ -21,10 +21,13 @@ end
 def using_first(array)
 famous_cats = ["Garfield", "grumpy cat", "maru", "puss-in boots"]
 famous_cats.first 
+=> "Garfield"
 end
 
 def using_last(array)
-famous_cats = 
+famous_cats = ["Garfield", "grumpy cat", "maru", "puss-in boots"]
+famous_cats.last
+=> "puss-in boots"
 end
 
 def using_size(array)
