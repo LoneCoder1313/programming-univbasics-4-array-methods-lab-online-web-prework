@@ -31,5 +31,8 @@ famous_cats.last
 end
 
 def using_size(array)
-famous_cats = 
+famous_cats = ["Garfield", "grumpy cat", "maru", "puss-in boots"]
+famous_cats.size 
+=> 4 
+
 end
