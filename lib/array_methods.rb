@@ -19,11 +19,12 @@ famous_cats.reverse
 end
 
 def using_first(array)
-famous_cats = 
+famous_cats = ["Garfield", "grumpy cat", "maru", "puss-in boots"]
+famous_cats.first 
 end
 
 def using_last(array)
-
+famous_cats = 
 end
 
 def using_size(array)
