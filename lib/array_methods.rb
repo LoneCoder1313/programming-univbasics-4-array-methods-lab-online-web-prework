@@ -7,7 +7,8 @@ famous_cats.include?("Garfield")
 end
 
 def using_sort(array)
-  famous_cats = 
+  famous_cats = ["Garfield", "grumpy cat", "maru", "puss-in boots"]
+  sorted_cats = famous_cats.sort 
 end
 
 def using_reverse(array)
