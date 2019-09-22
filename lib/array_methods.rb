@@ -12,7 +12,10 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-famous_cats = 
+famous_cats = ["Garfield", "grumpy cat", "maru", "puss-in boots"]
+famous_cats.reverse
+=> ["puss-in boots", "maru", "grumpy cat", "Garfield"]
+
 end
 
 def using_first(array)
