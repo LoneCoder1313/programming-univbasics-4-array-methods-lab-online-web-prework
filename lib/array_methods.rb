@@ -19,7 +19,7 @@ famous_cats.reverse
 end
 
 def using_first(array)
-
+famous_cats = 
 end
 
 def using_last(array)
